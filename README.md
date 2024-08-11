@@ -5,6 +5,8 @@ Tech Innovator & Consultant (Software Engineering | Product Management | Digital
 I'm Timothy, a seasoned Software Engineering Consultant with nearly a decade of experience in the tech industry. I specialize in transforming ideas into powerful, scalable, and impactful digital products that solve real-world business challenges. My mission is to drive innovation through technology, empowering businesses to achieve digital excellence.
 
 
+<br>
+<br>
 <img src="https://komarev.com/ghpvc/?username=timothy-tech&label=Profile%20views&color=6805D3&style=flat" alt="timothy-tech" />
 👨‍💻 I bring expertise in Software Product Engineering, Product Architecture, and Digital Product Transformation.
 💼 I’ve worked extensively across various sectors, including Banking, Commercial, Consulting, and Education.
@@ -15,7 +17,9 @@ I'm Timothy, a seasoned Software Engineering Consultant with nearly a decade of 
 📫 Reach me via LinkedIn - connect with me on LinkedIn.
 🛠️ Expertise & Tools
 
-
+<br>
+<br>
+<br>
 <p align="center"> 
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
