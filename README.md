@@ -9,12 +9,13 @@ I'm Timothy, a seasoned Software Engineering Consultant with nearly a decade of 
 👨‍💻 I bring expertise in Software Product Engineering, Product Architecture, and Digital Product Transformation.
 💼 I’ve worked extensively across various sectors, including Banking, Commercial, Consulting, and Education.
 🚀 I’m currently leading initiatives in Business Process Delivery Automation and Digital Transformation for global clients.
-🌱 I’m continuously expanding my skills in Cloud Technologies, DevOps, and Strategic Product Management.
+🌱 I’m an expert in Cloud Technologies, DevOps, and Strategic Product Management.
 🤝 I’m open to collaborations on cutting-edge technology projects, consulting roles, and startup ventures.
 💬 Let's discuss Tech Innovation, Digital Transformation, Software Architecture, and Strategic Planning.
-📫 Reach me via email at timothy.consultant@gmail.com or connect with me on LinkedIn.
-😄 Pronouns: He/Him
+📫 Reach me via LinkedIn - connect with me on LinkedIn.
 🛠️ Expertise & Tools
+
+
 <p align="center"> 
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -35,7 +36,8 @@ I'm Timothy, a seasoned Software Engineering Consultant with nearly a decade of 
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
-📊 Github Stats
+
+<br/>
 
 
 <br/>
