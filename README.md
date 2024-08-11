@@ -10,7 +10,7 @@ I'm Timothy, also known as Olugenius , that is because I'm a Tech Genius! ✌️
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=timothy-tech&label=Profile%20views&color=6805D3&style=flat" alt="timothy-tech" />
-👨‍💻 I bring expertise in Software Product Engineering, Product Architecture, and Digital Product Transformation.
+👨‍💻 I have expertise in Software Product Engineering, Product Architecture, and Digital Product Transformation.
 💼 I’ve worked extensively across various sectors, including Banking, Commercial, Consulting, and Education.
 🚀 I’m currently leading initiatives in Business Process Delivery Automation and Digital Transformation for global clients.
 🌱 I’m an expert in Cloud Technologies, DevOps, and Strategic Product Management.
