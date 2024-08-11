@@ -1,9 +1,11 @@
-Hey GITHUB!, I'm Timothy 👋
-About Me ⚡
+Hey GITHUB!, I'm Timothy 👋 <br>
+
+<b> About Me ⚡ </b>
+
 Tech Innovator & Consultant (Software Engineering | Product Management | Digital Transformation Specialist)
 
+<br>
 I'm Timothy, a seasoned Software Engineering Consultant with nearly a decade of experience in the tech industry. I specialize in transforming ideas into powerful, scalable, and impactful digital products that solve real-world business challenges. My mission is to drive innovation through technology, empowering businesses to achieve digital excellence.
-
 
 <br>
 <br>
