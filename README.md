@@ -14,7 +14,7 @@ I'm Timothy, a seasoned Software Engineering Consultant with nearly a decade of 
 🌱 I’m an expert in Cloud Technologies, DevOps, and Strategic Product Management.
 🤝 I’m interested in collaborations on cutting-edge technology projects, consulting roles, and startup ventures.
 💬 Let's discuss Tech Innovation, Digital Transformation, Software Architecture, and Strategic Planning.
-📫 Reach me via LinkedIn - connect with me on LinkedIn.
+📫 Reach me via LinkedIn - <a href="https://www.linkedin.com/in/timothy-oluwole-0100a89b/"> connect with me on LinkedIn. </a>  
 🛠️ Expertise & Tools
 
 <br>
