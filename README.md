@@ -12,7 +12,7 @@ I'm Timothy, a seasoned Software Engineering Consultant with nearly a decade of 
 💼 I’ve worked extensively across various sectors, including Banking, Commercial, Consulting, and Education.
 🚀 I’m currently leading initiatives in Business Process Delivery Automation and Digital Transformation for global clients.
 🌱 I’m an expert in Cloud Technologies, DevOps, and Strategic Product Management.
-🤝 I’m open to collaborations on cutting-edge technology projects, consulting roles, and startup ventures.
+🤝 I’m interested in collaborations on cutting-edge technology projects, consulting roles, and startup ventures.
 💬 Let's discuss Tech Innovation, Digital Transformation, Software Architecture, and Strategic Planning.
 📫 Reach me via LinkedIn - connect with me on LinkedIn.
 🛠️ Expertise & Tools
