@@ -14,7 +14,7 @@ I'm Timothy, also known as Olugenius , that is because I'm a Tech Genius! ✌️
 👨‍💻 I have expertise in Software Product Engineering, Product Architecture, and Digital Product Transformation.
 💼 I’ve worked extensively across various sectors, including Banking, Commercial, Consulting, and Education.
 🚀 I’m currently leading initiatives in Business Process Delivery Automation and Digital Transformation for global clients.
-🌱 I’m an expert in Cloud Technologies, DevOps, and Strategic Product Management.
+🌱 I’m an expert in Product Development, Cloud Technologies, DevOps, and Strategic Product Management.
 🤝 I’m interested in collaborations on cutting-edge technology projects, consulting roles, and startup ventures.
 💬 Let's discuss Tech Innovation and Digital Transformation.
 📫 Reach me via LinkedIn - <a href="https://www.linkedin.com/in/timothy-oluwole-0100a89b/"> connect with me on LinkedIn. </a>  
