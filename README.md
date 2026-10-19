@@ -4,7 +4,7 @@ Hey GITHUB!, I'm Timothy 👋 <br>
 
 Tech Innovator & Consultant (Software Engineering | Product Management | Digital Transformation Specialist)
 <br><br>
-🔴 MY GitHub Repos are Private.   That's because i build real Products and Projects that solved real problems.
+🔴 MY GitHub Repos are Private.   That's because i manage, lead and build real Products and Projects that solved real problems. 
 <br><br>
 I'm Timothy, also known as Olugenius , that is because I'm a Tech Genius! ✌️😉 I'm a seasoned Software Engineering Consultant with nearly a decade of experience in the tech industry. I specialize in transforming ideas into powerful, scalable, and impactful digital products that solve real-world business challenges. My mission is to drive innovation through technology, empowering businesses to achieve digital excellence.
 
